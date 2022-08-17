@@ -1,4 +1,6 @@
-# CourseManagerPrimeiroProjeto
+# Projeto de Lista de Cursos com Angular
+
+## ATENÇÃO: este projeto utiliza os dados de um servidor feito com .js para alimentar a página, este servidor está na pasta server e é preciso copia-lo praa outra página e executa-lo com o comando "node serve.js" para inicia-lo!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
